@@ -1,0 +1,7 @@
+# others
+__pycache__/
+.idea/
+output/
+output_wo_cache/
+cache.txt
+praw.txt

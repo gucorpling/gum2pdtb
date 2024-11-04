@@ -1,0 +1,6 @@
+before	context-circumstance	SCONJ	temporal.asynchronous.precedence
+before	context-circumstance	ADV	temporal.asynchronous.succession
+but	adversative-contrast	CCONJ	comparison.contrast
+but	adversative-contrast	SCONJ	expansion.exception
+since	context-circumstance	SCONJ	temporal.asynchronous.succession
+since	context-circumstance	ADV	temporal.asynchronous.precedence
